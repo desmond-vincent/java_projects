@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.algorithms</groupId>
-    <artifactId>two-pointer</artifactId>
+    <artifactId>two-pointers</artifactId>
     <version>1.0</version>
 
     <properties>
