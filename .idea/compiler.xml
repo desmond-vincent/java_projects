@@ -7,8 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sliding-window" />
-        <module name="two-pointers" />
+        <module name="two-pointer" />
+        <module name="fast-slow-pointers" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="two-pointers" target="25" />
+    </bytecodeTargetLevel>
   </component>
 </project>
