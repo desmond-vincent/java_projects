@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="sliding-window" />
         <module name="two-pointers" />
+        <module name="binary-search" />
         <module name="fast-slow-pointers" />
       </profile>
     </annotationProcessing>
