@@ -9,6 +9,7 @@
         <module name="sliding-window" />
         <module name="two-pointers" />
         <module name="binary-search" />
+        <module name="depth-first-search" />
         <module name="fast-slow-pointers" />
       </profile>
     </annotationProcessing>
